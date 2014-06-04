@@ -1,1 +1,57 @@
-{}
+{
+    "algemeen": {
+        "creatiedatum_van_klinische_file": "Wed Jun 04 2014 00:00:00 GMT+0200 (CEST)",
+        "jaar_van_datacollectie": 2013
+    },
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "Vrouw"
+        },
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {},
+        "patient_niss": 99031426383,
+        "naam": "Chadli",
+        "voornaam": "Anna"
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {},
+            "insulineschema": {}
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {},
+            "systolische_bloeddruk": {},
+            "diastolische_bloeddruk": {}
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoidie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
